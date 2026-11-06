@@ -2,7 +2,7 @@
 
 An interactive screening tool for external corrosion features on pipelines. It assesses each feature with **ASME B31G**, **Modified B31G (0.85dL)** and **DNV-RP-F101**, calculates the estimated repair factor (ERF) and remaining life at an assumed corrosion growth rate, and ranks an in-line inspection (ILI) anomaly list into a dig list.
 
-**Live demo:** https://claude.ai/artifact/YVcAfScQRtX4Spn1te85KM
+**Live demo:** https://fahimalr.github.io/pipeline-metal-loss-screening/
 
 ![Screenshot of the tool](docs/screenshot.png)
 
